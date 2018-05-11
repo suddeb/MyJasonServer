@@ -13,19 +13,17 @@
       "title": "Post 3"
     }
   ],
-  "salesforce":[
-	{
-		"id": 1,
-		"name": "Sales Cloud"
-	},
-	{
-		"id": 2,
-		"name": "Service Cloud"
-	},
-	{
-		"id": 3,
-		"name": "Community Cloud"
-	}
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
