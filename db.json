@@ -13,16 +13,14 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
+  "salesforce": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Sales Cloud"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "Service Cloud"
     }
   ],
   "profile": {
